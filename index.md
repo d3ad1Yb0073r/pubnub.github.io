@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Subdomain Takeover By Dipak
 
 You can use the [editor on GitHub](https://github.com/d3ad1Yb0073r/whatbox.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
